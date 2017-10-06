@@ -1,0 +1,8 @@
+1、MediaRecorder实现部分
+	Microphone_old.zip——Andriod端代码
+	TestMyServerSocket_old.zip——PC端服务器代码
+	MicrophoneServer_old.exe——服务器端exe程序（电脑中必须有JDK环境，同时版本在1.8以上）
+2、AudioRecord实现部分
+	Microphone_new.zip——Andriod端代码
+	TestMyServerSocket_new.zip——PC端服务器代码
+	MicrophoneServer_new.exe——服务器端exe程序（电脑中必须有JDK环境，同时版本在1.8以上）
